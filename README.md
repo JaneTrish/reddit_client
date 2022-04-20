@@ -4,7 +4,7 @@ This is a React application that uses Reddit JSON API.
 
 ## Overview
 
-The application is a mini reddit client that fetches and displays 26 most popular posts from Reddit when the page first loads. 
+The application is a mini reddit client that fetches and displays 26 most popular posts from Reddit on the initial load of the page. 
 A user can search reddit for a specific post or filter posts by categories.
 
 Toggle dark/light mode is also available.
