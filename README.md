@@ -1,6 +1,7 @@
 # Reddit Client
 
 This is a React application that uses Reddit JSON API.
+Visit the link to check it out: https://my-mini-reddit.netlify.app/
 
 ## Overview
 
