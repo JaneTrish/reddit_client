@@ -1,6 +1,6 @@
 # Reddit Client
 
-This is a React application that uses reddit json API.
+This is a React application that uses Reddit JSON API.
 
 ## Overview
 
