@@ -3,7 +3,7 @@
 This is a React application that uses Reddit JSON API.
 Visit the link to check it out: https://my-mini-reddit.netlify.app/
 
-##### For some reason the app might not work properly in Mozilla browser and I haven't figured out the reason yet. Try opening in Chrome or other browsers instead.  
+##### The app might not work properly in Firefox because of the CORS. If this is the case, try opening in Chrome or other browsers instead.  
 
 ## Overview
 
