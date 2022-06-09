@@ -15,7 +15,7 @@ Toggle dark/light mode is also available.
 ## API features
 
 Since an undocumented **Reddit JSON API** (https://github.com/reddit-archive/reddit/wiki/JSON) was used for this project, there are a couple of things to note:
-- The API allows only GET requests.
+- You can view posts and comments of other users but can't create your own because only GET requests are allowed by this API.
 - Some graphic objects (like pictures from reddit gallery or embedded images/videos etc) can not be displayed in posts due to limitations. In these cases a link to the official website is displayed in the post.
 
 
